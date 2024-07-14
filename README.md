@@ -19,7 +19,7 @@ Follow these steps to set up and run the project.
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/ShoXx92/generateSecret.git
     cd <repository-directory>
     ```
 
